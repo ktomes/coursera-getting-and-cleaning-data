@@ -34,7 +34,6 @@ activities <- read.table('activity_labels.txt')
 # 'mean.std' which we will use as an index after we merge the data
 
 mean.std = grepl("-mean|-std", features$V2)
-# mean.std = grep("mean\\(\\)|std\\(\\)", features$V2)
 mean.std
 
 # clean up the variable names
