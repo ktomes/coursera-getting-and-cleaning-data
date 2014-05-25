@@ -4,8 +4,7 @@ Required for Project 2, peer assessment.
 The purpose of this file is to describe the process used to transform multiple data files into a usable ‘tidy’ dataset 
 that can be used for analysis.
 
-The data files represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A description of the data and how it was obtained can be found here: 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+The data files represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A description of the data and how it was obtained can be found here:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Here are the data for the project: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
